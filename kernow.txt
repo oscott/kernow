@@ -29,4 +29,4 @@ Selling the code without prior written consent is expressly forbidden.
 In all cases copyright and header must remain intact.
 -->
 
-<!-- End StPiransTable Code by [os] --> 
+<!-- End StPiransTable Code by [os] -->
